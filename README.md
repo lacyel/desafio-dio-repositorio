@@ -1,2 +1,2 @@
-# desafio-dio-repositorio
+# desafio de projeto 
 repositório de desafio de Projeto Git/GitHub
